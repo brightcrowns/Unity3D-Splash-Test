@@ -1,0 +1,7 @@
+Library/*
+Out/*
+Temp/*
+*.csproj
+*.sln
+*.suo
+
